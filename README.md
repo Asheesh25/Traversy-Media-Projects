@@ -1,1 +1,1 @@
-# Web_Development_Projects_For_Learning
+# This repository contains the web development projects I am making using traversy media youtube channel.
